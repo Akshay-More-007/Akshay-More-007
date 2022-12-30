@@ -3,7 +3,7 @@
 - 👀 I’m interested in Data Science, Machine learning, Python and SQL. 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine learning projects
-- 📫 How to reach me www.linkedin.com/in/akshaymore007 and www.kaggle.com/ironborn007
+- 📫 How to reach me Linkedin and Kaggle.
 
 <!---
 ironborn007/ironborn007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
