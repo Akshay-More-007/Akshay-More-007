@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Akshay-More-007
--    Btw, Real name is Akshay More
 - 👀 I’m interested in Data Science, Machine learning, Python and SQL. 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine learning projects
